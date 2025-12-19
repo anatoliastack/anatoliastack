@@ -89,7 +89,7 @@ that developers can rely on for years.
 ## 👤 Author
 
 **Serhan KARAKOÇ**  
-Software Engineer & Product Builder  
+Software Developer & Product Builder  
 
 Creator of **Anadolu Stack**
 
