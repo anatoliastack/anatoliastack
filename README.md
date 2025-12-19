@@ -1,6 +1,6 @@
 # Anadolu Stack
 
-**Anadolu Stack** is a production-ready Go web boilerplate created and maintained by  
+**Anatolia Stack** is a production-ready Go web boilerplate created and maintained by  
 **Serhan KARAKOÇ**.
 
 It represents a **server-driven, form-based, real-world web architecture** built with Go.
@@ -15,7 +15,7 @@ Just clean, fast and maintainable web applications.
 
 Modern web development often favors trends over clarity.
 
-Anadolu Stack is built on a simpler belief:
+Anatolia Stack is built on a simpler belief:
 
 - Server-side rendering first
 - Classic HTML forms
@@ -49,7 +49,7 @@ This stack is designed for **long-living business software**, not experiments.
 
 ## 🎯 Who Is This For?
 
-Anadolu Stack is built for developers who:
+Anatolia Stack is built for developers who:
 
 - Build admin panels and internal tools
 - Develop business-critical applications
@@ -76,7 +76,7 @@ This is how dependable software is built.
 
 ## 🧭 Vision
 
-Anadolu Stack is not just a boilerplate.
+Anatolia Stack is not just a boilerplate.
 
 It is an **opinionated foundation** for building serious software with Go.
 
@@ -99,7 +99,7 @@ Creator of **Anadolu Stack**
 
 ## 🤝 Contributing
 
-Anadolu Stack is open to contributions, ideas and discussions.
+Anatolia Stack is open to contributions, ideas and discussions.
 
 If you believe in **server-driven web development**  
 and value simplicity, you are welcome to contribute.
@@ -108,11 +108,11 @@ and value simplicity, you are welcome to contribute.
 
 ## 📄 License
 
-Anadolu Stack is open-source software licensed under the **MIT License**.
+Anatolia Stack is open-source software licensed under the **MIT License**.
 
 ---
 
 ## ⭐ Support
 
-If Anadolu Stack helps you build better software,  
+If Anatolia Stack helps you build better software,  
 consider giving it a ⭐ on GitHub.
