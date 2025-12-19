@@ -1,4 +1,4 @@
-# Anadolu Stack
+# Anatolia Stack
 
 **Anatolia Stack** is a production-ready Go web boilerplate created and maintained by  
 **Serhan KARAKOÇ**.
